@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tsum reg","Test input tsum negative","SUCCESS","2020-06-01T02:00:36.641+03:00[Europe/Moscow]","0.0","19.51"
+"Tsum reg","Test input tsum pozitiv","SUCCESS","2020-06-01T02:00:56.998+03:00[Europe/Moscow]","0.0","16.3"
+"Tsum reg","Test reg tsum pozitiv","SUCCESS","2020-06-01T02:01:13.302+03:00[Europe/Moscow]","0.0","19.75"
+"Tsum reg","Test reg tsum negative","SUCCESS","2020-06-01T02:01:33.057+03:00[Europe/Moscow]","0.0","14.64"
