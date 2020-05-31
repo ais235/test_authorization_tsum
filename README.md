@@ -1,2 +1,2 @@
-# test_authorization_tsum
-Test using serenity
+Автоматизаия двух позитивных и двух негативных сценарий регистрации и входа на сайт tsum.ru. 
+Используется стэк технологий: Java, Gradle, Serenity(framework), jUnit.
