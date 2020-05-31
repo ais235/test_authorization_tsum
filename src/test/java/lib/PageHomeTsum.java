@@ -1,6 +1,5 @@
 package lib;
 
-import net.thucydides.core.annotations.Pending;
 import net.thucydides.core.annotations.Step;
 import org.openqa.selenium.By;
 public class PageHomeTsum extends MainPageObject {
@@ -13,7 +12,7 @@ public class PageHomeTsum extends MainPageObject {
         visitPage(baseUrl);
     }
 
-    @Step("Go to uaoth/reg form")
+    @Step("Go to auth/reg form")
     public void goToLogin()
     {
         this.waitForElementAndClick(
@@ -22,5 +21,4 @@ public class PageHomeTsum extends MainPageObject {
                 5
         );
     }
-
 }

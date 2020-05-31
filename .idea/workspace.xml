@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aba031dd-0e70-4036-ab4a-53b94e447e12" name="Default Changelist" comment="" />
+    <list default="true" id="aba031dd-0e70-4036-ab4a-53b94e447e12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_tests/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_tests/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_tests/src/main/java/123/app/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_tests/src/test/java/123/acceptancetests/AcceptanceTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_tests/src/test/java/123/steps/MathsStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_tests/src/test/resources/features/math/adding_numbers.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lib/MainPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lib/MainPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TsumReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TsumReg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1e069f84ec9f7645fa3e26feeda704146e2783cb81f00f601e6a4e5714f94aa8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1e069f84ec9f7645fa3e26feeda704146e2783cb81f00f601e6a4e5714f94aa8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1e069f84ec9f7645fa3e26feeda704146e2783cb81f00f601e6a4e5714f94aa8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1e069f84ec9f7645fa3e26feeda704146e2783cb81f00f601e6a4e5714f94aa8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2e348057e08c2bafaec420396564eb68b29c436f956813a9a146d9a598c7ed75.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2e348057e08c2bafaec420396564eb68b29c436f956813a9a146d9a598c7ed75.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2e348057e08c2bafaec420396564eb68b29c436f956813a9a146d9a598c7ed75.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2e348057e08c2bafaec420396564eb68b29c436f956813a9a146d9a598c7ed75.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/30eb86bb282c7ab33604f3b4c00b98898d83b30dd0571db2ef7a645078e2c3d6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/30eb86bb282c7ab33604f3b4c00b98898d83b30dd0571db2ef7a645078e2c3d6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/30eb86bb282c7ab33604f3b4c00b98898d83b30dd0571db2ef7a645078e2c3d6.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/30eb86bb282c7ab33604f3b4c00b98898d83b30dd0571db2ef7a645078e2c3d6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4e6a66900737865c34edc8cae201c51a00d4ed9fdf2c5f46f7b6c40d7cc4e8e8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4e6a66900737865c34edc8cae201c51a00d4ed9fdf2c5f46f7b6c40d7cc4e8e8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/95ee4334a1ebde2187aeaf98148c2bea20c65f62e10af4365d3ae3ff03926b78.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/95ee4334a1ebde2187aeaf98148c2bea20c65f62e10af4365d3ae3ff03926b78.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/95ee4334a1ebde2187aeaf98148c2bea20c65f62e10af4365d3ae3ff03926b78.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/95ee4334a1ebde2187aeaf98148c2bea20c65f62e10af4365d3ae3ff03926b78.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/96a156ffcc37328ef0455abe6f3e40981bbb22d2595653f9bdbe99887f88208b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/96a156ffcc37328ef0455abe6f3e40981bbb22d2595653f9bdbe99887f88208b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/96a156ffcc37328ef0455abe6f3e40981bbb22d2595653f9bdbe99887f88208b.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/96a156ffcc37328ef0455abe6f3e40981bbb22d2595653f9bdbe99887f88208b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-a9006d5ca2eeca6ac3a03d275be556aafbae2ffe840c14a87283b33435250c92.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-a9006d5ca2eeca6ac3a03d275be556aafbae2ffe840c14a87283b33435250c92.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a9006d5ca2eeca6ac3a03d275be556aafbae2ffe840c14a87283b33435250c92.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a9006d5ca2eeca6ac3a03d275be556aafbae2ffe840c14a87283b33435250c92.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a9006d5ca2eeca6ac3a03d275be556aafbae2ffe840c14a87283b33435250c92.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a9006d5ca2eeca6ac3a03d275be556aafbae2ffe840c14a87283b33435250c92.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cf06d829ed34ee05b3d10d55f2cd51b9503f3fefb818ebfbb5aa9f7d5feb60f9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/cf06d829ed34ee05b3d10d55f2cd51b9503f3fefb818ebfbb5aa9f7d5feb60f9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/serenity.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/src/test/java/123/features/search/SearchByKeywordStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/src/test/java/123/features/search/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/src/test/java/123/pages/DictionaryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/src/test/java/123/steps/serenity/EndUserSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth/src/test/resources/features/search/narrative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth_tsum/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth_tsum/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth_tsum/src/main/java/2/app/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth_tsum/src/test/java/2/acceptancetests/AcceptanceTestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth_tsum/src/test/java/2/steps/MathsStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_auth_tsum/src/test/resources/features/math/adding_numbers.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/serenity.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/src/test/java/Tsum/features/search/SearchByKeywordStory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/src/test/java/Tsum/features/search/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/src/test/java/Tsum/pages/DictionaryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/src/test/java/Tsum/steps/serenity/EndUserSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_authorization_tsum/src/test/resources/features/search/narrative.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -73,11 +131,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -85,17 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" selection-start-line="5" selection-end-line="6" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/TsumReg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,10 +153,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lib/MainPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/TsumReg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,8 +192,9 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#310#311#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
               </folding>
@@ -137,17 +211,25 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/registration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lib/MainPageObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/TestSuite.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/TsumReg.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/test/TsumReg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lib/MainPageObject.java" />
       </list>
     </option>
   </component>
@@ -157,6 +239,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -205,24 +288,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test_authorization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_authorization_tsum" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_authorization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_authorization_tsum" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_authorization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_authorization_tsum" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="serenity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -234,6 +299,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="F:/test/Sasha" />
@@ -354,8 +420,8 @@
       <list>
         <item itemvalue="Gradle.test_authorization_tsum [aggregate]" />
         <item itemvalue="JUnit.TsumReg" />
-        <item itemvalue="Gradle.test_authorization_tsum [clearHistory]" />
         <item itemvalue="Gradle.test_authorization_tsum [clearReports]" />
+        <item itemvalue="Gradle.test_authorization_tsum [clearHistory]" />
         <item itemvalue="JUnit.TsumReg.testRegTsumPozitiv" />
       </list>
     </recent_temporary>
@@ -376,9 +442,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TsumReg - 2020.06.01 at 01h 05m 22s.xml">
-      <configuration name="TsumReg" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TsumReg_testRegTsumPozitiv - 2020.06.01 at 01h 12m 13s.xml">
       <configuration name="TsumReg.testRegTsumPozitiv" configurationId="JUnit" />
     </history-entry>
@@ -406,6 +469,9 @@
     <history-entry file="TsumReg - 2020.06.01 at 02h 01m 50s.xml">
       <configuration name="TsumReg" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TsumReg - 2020.06.01 at 02h 27m 03s.xml">
+      <configuration name="TsumReg" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1358000" />
@@ -421,6 +487,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-2" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -428,7 +495,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" weight="0.32995737" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3672708" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.13006397" />
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
@@ -513,64 +580,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lib/MainPageObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/TsumReg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_tsum/src/test/java/project/DefinitionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_tsum/src/test/resources/features/consult_dictionary/LookupADefinition.feature">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/auth_tests/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/TsumReg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lib/PageHomeTsum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lib/CoreTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lib/MainPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lib/PageHomeLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

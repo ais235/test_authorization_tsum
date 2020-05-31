@@ -1,6 +1,5 @@
 package lib;
 
-import net.thucydides.core.annotations.Pending;
 import net.thucydides.core.annotations.Step;
 import org.openqa.selenium.By;
 
@@ -15,7 +14,6 @@ public class PageHomeLogin extends MainPageObject {
             REGBATTON = "(//button[@type='submit'])[1]",
             REG_SACCESS = "//*[contains(.,'Успешная регистрация')]",
             INVALID_EMAIL = "//span[contains(.,'Указан некорректный email')]",
-    //            INVALID_PASSWORD = format("//span[contains(.,'%s')]", +invalidPassword),
             RULES_SALES = "//a[contains(.,'Правила продажи товаров')]";
 
     @Step("Check: the auth form is active")
@@ -26,7 +24,6 @@ public class PageHomeLogin extends MainPageObject {
                 "Не найден локатор: "+ AUTHORISATION,
                 5
         );
-
     }
     @Step("Пеерход на форму регистрации")
     public void clickRegBatton()
@@ -116,7 +113,4 @@ public class PageHomeLogin extends MainPageObject {
                 5
         );
     }
-
-
-
 }

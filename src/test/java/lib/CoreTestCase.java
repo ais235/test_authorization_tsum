@@ -3,8 +3,6 @@ package lib;
 import junit.framework.TestCase;
 import org.junit.After;
 import org.junit.Before;
-/*import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.BeforeAll;*/
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
@@ -26,8 +24,6 @@ public class CoreTestCase extends TestCase {
         //растягиваем браузер на весь экран
         driver.manage().window().maximize();
 
-//        //загрузка страницы
-//        driver.get("https://yandex.ru");
     }
 
     @After

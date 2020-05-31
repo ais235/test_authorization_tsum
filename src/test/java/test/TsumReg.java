@@ -9,9 +9,7 @@ import net.thucydides.core.annotations.Steps;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-
 @RunWith(SerenityRunner.class)
-
 
 public class TsumReg extends CoreTestCase {
 
@@ -26,21 +24,14 @@ public class TsumReg extends CoreTestCase {
     PageHomeLogin pageHomeLogin = new PageHomeLogin();
     PageHomeTsum pageHomeTsum = new PageHomeTsum();
 
-
-
-
-
     @Test
     //Регистрация позитивный сценарий
 
     public void testRegTsumPozitiv()
     {
         System.out.println("Запуск теста");
-       // PageHomeTsum pageHomeTsum = new PageHomeTsum();
-
         pageHomeTsum.visitHomePage(URL_HOME);
         pageHomeTsum.goToLogin();
-       // PageHomeLogin pageHomeLogin = new PageHomeLogin();
         pageHomeLogin.checkAuthActive();
         pageHomeLogin.clickRegBatton();
         pageHomeLogin.fillEmail(email);
@@ -54,10 +45,8 @@ public class TsumReg extends CoreTestCase {
     public void testRegTsumNegative()
     {
         System.out.println("Запуск теста");
-      //  PageHomeTsum pageHomeTsum = new PageHomeTsum();
         pageHomeTsum.visitHomePage(URL_HOME);
         pageHomeTsum.goToLogin();
-//        PageHomeLogin pageHomeLogin = new PageHomeLogin();
         pageHomeLogin.checkAuthActive();
         pageHomeLogin.clickRegBatton();
         pageHomeLogin.fillEmail("test321mail.ru");
@@ -73,9 +62,7 @@ public class TsumReg extends CoreTestCase {
     public void testInputTsumPozitiv()
     {
         System.out.println("Запуск теста");
-//        PageHomeTsum pageHomeTsum = new PageHomeTsum();
         pageHomeTsum.visitHomePage(URL_REG);
-//        PageHomeLogin pageHomeLogin = new PageHomeLogin();
         pageHomeLogin.checkAuthActive();
         pageHomeLogin.fillEmail("test+1590955171@mail.ru");
         pageHomeLogin.fillPassword("password");
@@ -87,9 +74,7 @@ public class TsumReg extends CoreTestCase {
     public void testInputTsumNegative()
     {
         System.out.println("Запуск теста");
-//        PageHomeTsum pageHomeTsum = new PageHomeTsum();
         pageHomeTsum.visitHomePage(URL_REG);
-//        PageHomeLogin pageHomeLogin = new PageHomeLogin();
         pageHomeLogin.checkAuthActive();
         pageHomeLogin.fillEmail("тестовая_почта@почта.рус");
         pageHomeLogin.fillPassword("1");
